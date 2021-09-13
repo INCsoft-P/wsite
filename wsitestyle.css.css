@@ -10710,6 +10710,7 @@ NOTE: Variables currently do not work with @custom-media. Hardcoding values for 
   color: hsl(0, 0%, 40%);
   margin: 0;
   padding-top: 8px;
+  padding-bottom: 10px;
   text-align: center;
 }
 ._2Bdkk {
